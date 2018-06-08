@@ -4,11 +4,11 @@ Questo programma permette di leggere il testo di qualsiasi canzone grazie all'ut
 Bisogna installare la libreria [lyricsgenius](https://github.com/johnwmillr/LyricsGenius) per le api di [Genius](http://www.genius.com)  
 Si può installare tramite pip 
 ```
-pip3 install lyricsgenius
+$pip3 install lyricsgenius
 ```
 oppure 
 ```
-python3 -m pip install lyricsgenius
+$python3 -m pip install lyricsgenius
 ```
 # Come usarla 
-Per poter cominiciare ad usare questa applicazione basterà lanciare lyrics_support.py (dovrei cambiare il nome del file)
+Per poter cominiciare ad usare questa applicazione basterà lanciare lyrics_support.py (_dovrei cambiare il nome del file_)
